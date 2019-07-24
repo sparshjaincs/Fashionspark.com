@@ -1,0 +1,61 @@
+html{
+    max-width:100%;
+    overflow-x:hidden;
+    min-height:100%;
+    position:relative;
+    top:0;
+    left:0;
+    background-color:#F8F8F8;
+}
+.cont{
+    background-color:#FFF;
+    width:100%;
+    height:500px;
+    padding-top:30px;
+}
+.rooww{
+   
+    width:500px;
+    height:400px;
+    margin-left:400px;
+    
+
+}
+.sign{
+  
+    font-family: 'Courier New', Courier, monospace;
+    font-size:40px;
+    font-weight:700;
+    margin-left:150px;
+    letter-spacing:2px;
+    text-shadow:2px 2px 16px black;
+}
+.sign:hover{
+    color:goldenrod;
+}
+.form-control{
+    width:400px;
+    height:35px;
+    border-radius:10px;
+    padding:8px;
+}
+.form-group{
+    padding:5px;
+}
+.inputs{
+  margin-top:-20px;
+ margin-left:40px;
+}
+.btn-primary{
+width:180px;
+height:40px;
+font-size:30px;
+font-family:'Courier New', Courier, monospace;
+font-weight:800;
+letter-spacing:3px;
+margin-left:110px;
+margin-top:3px;
+background-color:white;
+border-radius:10px;
+
+}

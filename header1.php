@@ -12,16 +12,13 @@
         <div href="index.php" title="Fashionspark.com" class="logo">Fashion<span class="sub-logo">spar</span>k<span class="sub-logo1">.com</span></div>
     
     </div>
-    
-        <div class="items">
-            <span title="MEN" class="men">MEN</span><span title="WOMEN" class="women">WOMEN</span><span title="KIDS" class="kids">KIDS</span>
-            <span title="HOME & LIVING" class="living">HOME&LIVING</span>
-       
+    <div class="items">
+            
             <?php
                 if(isset($_SESSION['email'])){
                     ?>
-                      <div class="cart">  <a title="CART" href="cart.php" ><img src="icons/Shopping Cart_25px.png"></img></a></div>
-                     <div class="logout">   <a title="LOGOUT" href="logout.php" ><img src="icons/Logout Rounded Left_25px.png"></img></a></div>
+                      <div class="cart">  <a title="CART" href="cart.php" ><img src="icons/ShoppingCart_25px.png"></img></a></div>
+                     <div class="logout">   <a title="LOGOUT" href="logout.php" ><img src="icons/LogoutRoundedLeft_25px.png"></img></a></div>
 
                 <?php
                 }else{
@@ -37,9 +34,7 @@
                 }
                 ?>
         </div>
-        
-    
 
 </div>
- </body>
+</body>
 </html>
