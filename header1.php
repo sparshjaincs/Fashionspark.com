@@ -15,6 +15,7 @@
     <div class="items">
             
             <?php
+                
                 if(isset($_SESSION['email'])){
                     ?>
                       <div class="cart">  <a title="CART" href="cart.php" ><img src="icons/ShoppingCart_25px.png"></img></a></div>

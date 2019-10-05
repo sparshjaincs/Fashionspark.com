@@ -28,7 +28,7 @@ session_start();
     <div class=slideshow>
          <div class="mySlides">
         <a href="product.php">
-        <img src="images/slide/banners.png" style="width:100%; height:480px;">
+        <img src="images/slide/banners.png" style="width:100%; height:480px;" >
         </a>
         </div>
         
@@ -207,7 +207,7 @@ at home</div>
 
 <div style="height:350px;">
         <div class="jeans" style="margin-left:20vw;">
-           <a href="product.php">     <img src="images/tom/Image1.png"></img></a>
+           <a href="product.php"  >    <img src="images/tom/Image1.png" ></img></a>
                 <div class="text" style="margin-left:30vw"><span style="color:#00174F;font-size:40px;font-weight:800;">THE NEW </span>
                 <span  style="color:#B9222F;font-size:40px;font-weight:800">ICONS</span> <br>A refreshed collection of wardrobe
 essentials feature modern interpretations

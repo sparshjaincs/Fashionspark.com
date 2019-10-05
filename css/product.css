@@ -1,0 +1,69 @@
+html{
+
+    max-width:100%;
+    overflow-x:hidden;
+}
+header{
+width:100%;
+height:10vw;
+}
+section{
+    width: 100%;
+
+    
+    
+}
+
+.banner1{
+    
+    width:22.2%;
+    height:26.5vw;
+    display:inline-block;
+    padding:1vw;
+    margin-bottom:1vw;
+    
+    }
+.image-container1{
+
+    
+    width:22vw;
+    height:27vw;
+    float:left;
+    padding:.5vw;
+    border:1px solid #F8F8F8;
+    margin-right:1vw;
+}
+.image-container1 img{
+    padding:10px;
+    width:20vw;
+    height:17vw;
+    
+}
+.image-container1 p{
+    margin-top:-.5vw;
+font-family:'Courier New', Courier, monospace;
+font-size:1.5vw;
+font-family:700;
+}
+.cart0{
+margin-top:-1vw;
+display:inline-block;
+padding:.2vw;
+font-size:1.1vw;
+background-color:#49AC43;
+color:white;
+border:0px;
+width:4vw;
+}
+.cart1{
+    margin-top:-.6vw;
+
+padding:.2vw;
+font-size:1.1vw;
+background-color:#49AC43;
+color:white;
+border:0px;
+width:10vw;
+height:2vw;
+border-radius:5px;
+}
